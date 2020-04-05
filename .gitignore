@@ -162,3 +162,6 @@ pip-selfcheck.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+# Project confidential files
+DART_password.txt
